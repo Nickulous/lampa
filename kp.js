@@ -127,9 +127,7 @@
                     }, false, {
                         type: 'get' //,
                         // headers: {
-                        //     'X-API-KEY': 'c33b47c6-dc46-4d66-8186-12252386f02b',
-						       'Content-Type': 'application/json',
-
+                        //     'X-API-KEY': getRandomKinopoiskTechKey()
                         // }
                     });
                 } else {
